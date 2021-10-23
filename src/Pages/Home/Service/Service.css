@@ -1,0 +1,25 @@
+/* service container style */
+.service__container {
+  margin: 20px 0;
+  display: flex;
+  flex-direction: column;
+}
+.service__img {
+  width: 50%;
+  margin: 0 auto;
+}
+.service__img img {
+  width: 100%;
+}
+.service__container h1 {
+  color: orangered;
+  font-weight: 700;
+  font-size: 30px;
+  margin: 10px 0;
+}
+
+.service__container p {
+  font-size: 15px;
+  padding:0px 50px;
+  line-height: 50px;
+}

@@ -1,0 +1,26 @@
+/* footer container style */
+.footer {
+  background-color:black;
+  min-height: 40vh;
+  padding-left: 100px;
+}
+.footer h2 {
+  font-weight: 600;
+  font-size: 20px;
+  color:orangered;
+}
+.copyright {
+ background-color:black; 
+}
+
+.footer ul {
+  list-style: none;
+}
+.footer ul li {
+  margin: 10px 0;
+  font-weight: 600;
+}
+.footer p {
+  margin: 10px 0;
+  font-weight: 600;
+}

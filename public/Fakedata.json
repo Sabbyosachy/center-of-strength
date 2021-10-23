@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1001,
+    "name": "Big Box Gyms",
+    "For": "Man & Women",
+    "fee": "$300",
+    "description": "Big box gyms offer rows and rows of cardio equipment and thousands of square feet in machines and free weights for you to access, get your workout on and get on with your day.",
+    "img": "https://guriwellness.com/lojelem/2018/02/bigboix_fight_and_fitness_004-400x400.jpg"
+  },
+  {
+    "id": 1002,
+    "name": "Boutique Gyms",
+    "For": "Man & Women",
+    "fee": "$250",
+    "description": "Boutique gyms are immensely popular because of their ability to add new meaning to the workout experience, proximity is another factor that makes these gyms desirable.",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/61t6xpFsPkL._SS400_.jpg"
+  },
+  {
+    "id": 1003,
+    "name": "Women's Gyms",
+    "For": "Women",
+    "fee": "$200",
+    "description": "More than a year of a rapidly changing fitness landscape enabled women to curate their workout spaces with roommates, family, and online friends in a never-seen-before way.",
+    "img": "https://s3-media0.fl.yelpcdn.com/bphoto/4sYauRxofhA5di021Fbe2g/l.jpg"
+  },
+  {
+    "id": 1004,
+    "name": "CrossFit Gyms",
+    "For": "Man & Women",
+    "fee": "$300",
+    "description": "A form of high intensity interval training, CrossFit is a strength and conditioning workout that is made up of functional movement performed at a high intensity level.",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91XNkV-GmhL._SS400_.jpg"
+  },
+  {
+    "id": 1005,
+    "name": "Powerlifting Gyms",
+    "For": "Man & Women",
+    "fee": "$250",
+    "description": "Powerlifting is a strength sport consisting of three events: squat, bench press and the deadlift. The lifter gets three attempts at a 1 rep max for each lift.",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/61li-WGzyCL._SS400_.jpg"
+  },
+  {
+    "id": 1006,
+    "name": "Yoga",
+    "fee": "$200",
+    "For": "Man & Women",
+    "description": "The word 'Yoga' is derived from the Sanskrit root 'Yuj', meaning 'to join' or 'to yoke' or 'to unite'Yoga also refers to an inner science comprising of a variety of methods .",
+    "img": "data:image/jpeg;base64,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"
+  }
+]
